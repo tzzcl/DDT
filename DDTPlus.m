@@ -1,4 +1,4 @@
-% Copyright (C) 2015 Xiu-Shen Wei, Chen-Lin Zhang, Yao Li, Chen-Wei Xie, Jianxin Wu, Chunhua Shen and Zhi-Hua Zhou
+% Copyright (C) 2017 Xiu-Shen Wei, Chen-Lin Zhang, Yao Li, Chen-Wei Xie, Jianxin Wu, Chunhua Shen and Zhi-Hua Zhou
 % All rights reserved.
 %
 % This file is part of our DDT+ method.
