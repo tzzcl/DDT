@@ -12,7 +12,7 @@ If you find our package is useful to your research. Please cite our paper:
 
 Reference: 
            
-[1] X.-S. Wei, C.-L. Zhang, J. Wu, C. Shen and Z.-H. Zhou. Unsupervised Object Discovery and Co-Localization by Deep Descriptor Transforming. arXiv:1707.06397, 2017 (https://arxiv.org/abs/1707.06397)
+[1] X.-S. Wei, C.-L. Zhang, J. Wu, C. Shen and Z.-H. Zhou. IEEE Transactions on Affective Computing (TAC), in press. (https://arxiv.org/abs/1707.06397)
 
 [2] X.-S. Wei, C.-L. Zhang, Y. Li, C.-W. Xie, J. Wu, C. Shen and Z.-H. Zhou. Deep Descriptor Transforming for Image Co-Localization. In: Proceedings of International Joint Conference on Artificial Intelligence (IJCAI’17), Melbourne, Australia, 2017.(https://arxiv.org/abs/1705.02758)
 
